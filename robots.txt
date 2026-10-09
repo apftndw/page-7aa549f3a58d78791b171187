@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1efdc66b0e.nrjia.cn/sitemap.xml

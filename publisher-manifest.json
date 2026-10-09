@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d223424c92f0e16e14e3331c",
+  "owner": "apftndw",
+  "repo": "page-7aa549f3a58d78791b171187",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7aa549f3a58d78791b171187",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "33361c7a1d780e350fc2b16bd0cc96e4045c97e1078cefb1335ca43ab6c103d4",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载，高速VPN加速器，提供官方客户端下载和多种流量套餐，支持流媒体解锁和游戏加速。",
+          "AI_DESCRIPTION": "小火箭下载，高速VPN加速器，提供官方客户端下载和多种流量套餐，支持流媒体解锁和游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    background: linear-gradient(180deg, #0A2540 0%, #001F3F 100%);\n    color: #E0F0FF;\n    margin: 0;\n    line-height: 1.6;\n}\nheader {\n    background: #0A2540;\n    padding: 1rem;\n    position: sticky;\n    top: 0;\n    z-index: 10;\n}\nnav {\n    max-width: 1100px;\n    margin: 0 auto;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    flex-wrap: wrap;\n}\n.logo {\n    font-size: 1.8rem;\n    font-weight: bold;\n    color: #00C4FF;\n    text-decoration: none;\n}\nnav a {\n    color: #E0F0FF;\n    margin: 0 1rem;\n    text-decoration: none;\n}\nmain {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 2rem 1rem;\n}\nh1 {\n    font-size: 2.8rem;\n    color: #00C4FF;\n    margin-bottom: 1rem;\n    text-align: center;\n}\nh2 {\n    font-size: 2rem;\n    color: #00D4FF;\n    margin: 2rem 0 1rem;\n}\nh3 {\n    font-size: 1.4rem;\n    color: #00E0FF;\n}\nsection {\n    background: #142E4F;\n    padding: 2rem;\n    border-radius: 12px;\n    margin-bottom: 2rem;\n}\n.plans {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n    gap: 1.5rem;\n}\n.plan {\n    background: #0A2540;\n    padding: 1.5rem;\n    border-radius: 12px;\n    border: 2px solid #00C4FF;\n    position: relative;\n}\n.plan.featured {\n    border-color: #00FFAA;\n    transform: scale(1.05);\n}\n.plan.featured::after {\n    content: \"推荐\";\n    position: absolute;\n    top: -10px;\n    right: 20px;\n    background: #00FFAA;\n    color: #0A2540;\n    padding: 0.25rem 1rem;\n    border-radius: 50px;\n    font-size: 0.9rem;\n    font-weight: bold;\n}\n.download-btn {\n    background: #00C4FF;\n    color: #0A2540;\n    padding: 0.75rem 1.5rem;\n    border-radius: 8px;\n    text-decoration: none;\n    font-weight: bold;\n    display: inline-block;\n    margin-top: 1rem;\n}\n.steps {\n    display: flex;\n    flex-direction: column;\n    gap: 1.5rem;\n}\n.step {\n    display: flex;\n    gap: 1rem;\n    align-items: flex-start;\n}\n.step-number {\n    background: #00C4FF;\n    color: #0A2540;\n    width: 2rem;\n    height: 2rem;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    font-weight: bold;\n    flex-shrink: 0;\n}\n.faq {\n    margin-top: 2rem;\n}\ndetails {\n    background: #0A2540;\n    margin-bottom: 1rem;\n    border-radius: 8px;\n    overflow: hidden;\n}\nsummary {\n    padding: 1.2rem;\n    cursor: pointer;\n    font-weight: 600;\n    color: #00C4FF;\n    list-style: none;\n}\nsummary::-webkit-details-marker {\n    display: none;\n}\nfooter {\n    background: #0A2540;\n    padding: 2rem;\n    text-align: center;\n    color: #A0D0FF;\n}\nfooter a {\n    color: #00C4FF;\n    text-decoration: none;\n}\n@media (max-width: 768px) {\n    h1 { font-size: 2.2rem; }\n    main { padding: 1.5rem 0.75rem; }\n    .plans { grid-template-columns: 1fr; }\n    .step { flex-direction: column; align-items: stretch; }\n}\n</style>\n\n\n<header>\n<nav>\n<a href=\"#\" class=\"logo\">小火箭下载</a>\n<div>\n<a href=\"#versions\">版本选择</a>\n<a href=\"#download\">客户端下载</a>\n<a href=\"#guide\">使用指南</a>\n<a href=\"#faq\">FAQ</a>\n<a href=\"#contact\">联系我们</a>\n</div>\n</nav>\n</header>\n<main>\n<h1>小火箭下载 - 高速VPN加速器</h1>\n<section>\n<p>小火箭下载是一款专业的VPN加速器客户端，专为X机场用户打造，提供稳定高速的网络连接体验。无论您是个人用户还是企业团队，都能找到最适合的版本。</p>\n<p>客户端经过严格性能优化，节点选择多样化，支持多种设备同时在线，助力您轻松解锁流媒体与游戏加速。</p>\n</section>\n<section id=\"versions\">\n<h2>版本选择</h2>\n<div class=\"plans\">\n<div class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月 | 按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#download\" class=\"download-btn\">选择基础版</a>\n</div>\n<div class=\"plan featured\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月 | 按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#download\" class=\"download-btn\">选择旗舰版</a>\n</div>\n<div class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月 | 按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#download\" class=\"download-btn\">选择团队版</a>\n</div>\n</div>\n</section>\n<section id=\"guide\">\n<h2>快速入门指南</h2>\n<div class=\"steps\">\n<div class=\"step\">\n<div class=\"step-number\">1</div>\n<div>\n<h3>选择适合的版本</h3>\n<p>根据您的流量需求和使用场景，选择基础版、旗舰版或团队版。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">2</div>\n<div>\n<h3>下载客户端</h3>\n<p>访问官网，点击下载按钮，选择您的操作系统下载小火箭下载客户端。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">3</div>\n<div>\n<h3>安装与配置</h3>\n<p>完成安装后，按照提示进行账号登录和节点配置。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">4</div>\n<div>\n<h3>连接加速</h3>\n<p>选择合适的节点，开启VPN加速功能，即可享受高速网络体验。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">5</div>\n<div>\n<h3>享受加速</h3>\n<p>畅享解锁流媒体、游戏加速和隐私保护的小火箭下载服务。</p>\n</div>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题 FAQ</h2>\n<div class=\"faq\">\n<details>\n<summary>小火箭下载是什么？</summary>\n<p>小火箭下载是一款专业的VPN加速器客户端，专注于提供高速稳定网络连接，帮助用户解锁地域限制，提升上网速度和隐私保护。</p>\n</details>\n<details>\n<summary>如何下载小火箭下载客户端？</summary>\n<p>请访问官网，点击“客户端下载”按钮，选择适合您操作系统的版本进行下载。下载完成后，运行安装程序完成安装。</p>\n</details>\n<details>\n<summary>小火箭下载支持哪些设备？</summary>\n<p>支持 Windows、macOS、Android、iOS 以及 Linux 等主流操作系统。客户端经过兼容性优化，可在各类设备上稳定运行。</p>\n</details>\n<details>\n<summary>基础版、旗舰版和团队版有什么区别？</summary>\n<p>基础版适合个人用户，每月100GB流量，支持3台设备；旗舰版提供300GB流量和全节点解锁，适合重度用户；团队版拥有1000GB流量和企业级定制服务，适合团队用户。</p>\n</details>\n<details>\n<summary>小火箭下载如何解锁流媒体？</summary>\n<p>使用旗舰版或以上版本，可通过全节点原生解锁技术，轻松解锁Netflix、YouTube、Disney+ 等流媒体平台。</p>\n</details>\n<details>\n<summary>小火箭下载的隐私安全如何？</summary>\n<p>小火箭下载采用AES-256加密协议，确保您的上网数据在传输过程中得到充分保护。所有节点均经过严格安全测试。</p>\n</details>\n</div>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 小火箭下载. 保留所有权利。</p>\n<a href=\"#download\">官方客户端下载</a>\n<div>广告</div>\n<div>友情链接：<a href=\"#\">X机场</a> <a href=\"#\">VPN加速器</a></div>\n</footer>\n\n",
+          "hash": "c4694cb8df6d42216188409942be5411d52202d0974a70e3efb3ceb6bfb336a8",
+          "seo": {
+            "title": "小火箭下载 - 高速VPN加速器 | 客户端下载",
+            "keywords": "小火箭下载, VPN加速器, 客户端下载, 机场订阅, 高速网络加速, X机场",
+            "description": "小火箭下载，高速VPN加速器，提供官方客户端下载和多种流量套餐，支持流媒体解锁和游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nrjia.cn",
+    "host": "p-1efdc66b0e.nrjia.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ae0a0526cd0070309edd8d8ebf5cc037dffd26d8b9afa4a984456c39f4fe07f7",
+    "sitemap.xml": "0ac4684ead04cbfe189a56205b4c54276065361242d2939ac98ff6128131fec9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3a168799539bcd978a1907301c007351e9b04fe893edfe37e6394751942b2e28",
+    "robots.txt": "7c9825070b27ef06bdf2208c93d0dee65c4b3eb0b4949c03535d33ac05bc113b",
+    "5d56e2c7c5909bf9a0a6babfa92f5576.txt": "c600d44ebade48ddc192941bfe58f5f59c83e2340708cb6ec758abf250be0481"
+  },
+  "revision": "70be959319e2c4e8c7d51b36ad306101ed220f3866b8ad08e0a94fdf36b3fd45"
+}
